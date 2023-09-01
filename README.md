@@ -57,7 +57,7 @@
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
 2. <a href="https://github.com/MissVeronica/um-form-shortcode-1">An UM shortcode based on the WordPress function “human_time_diff”</a>
 
-## Integration
+## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Adding a checkbox for Newsletter subscription selection and editable at the User Account Page</a>
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a>
 3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a>
