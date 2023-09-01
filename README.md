@@ -67,4 +67,4 @@
 ## Trace & JavaScript Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a>
-3. <a href="https://github.com/MissVeronica/UM-Email-Activation-Trace">How to get more information about email activation errors</a>
+
