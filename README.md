@@ -1,4 +1,4 @@
-# Repository Content
+# Repository Content for Ultimate Member
 ## email
 1. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Addition of a second textbox field for email address confirmation.</a>
 2. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">An email template for sending an email to the site admin when an UM User Profile is updated </a>
