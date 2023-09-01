@@ -1,16 +1,11 @@
 # Repository Content for Ultimate Member
 ## email
-1. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Addition of a second textbox field for email address confirmation.</a>
-2. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">An email template for sending an email to the site admin when an UM User Profile is updated </a>
-3. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC: and BCC: to UM Notification</a>
-4. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Integration of custom UM email and profile templates with Oxygen Builder.</a>
-5. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains. </a>
-6. <a href="https://github.com/MissVeronica/um-log-send-email">Logging of notification emails within UM</a>
-7. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
-8. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
-9. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
-10. <a href="https://github.com/MissVeronica/UM-Role-is-changed-email">Additional custom email template for Role changes</a>
-11. <a href="https://github.com/MissVeronica/UM-Email-Activation-Trace">How to get more information about email activation errors</a>
+1. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">An email template for sending an email to the site admin when an UM User Profile is updated </a>
+2. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC: and BCC: to UM Notification</a>
+3. <a href="https://github.com/MissVeronica/um-log-send-email">Logging of notification emails within UM</a>
+4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
+5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
+6. <a href="https://github.com/MissVeronica/UM-Role-is-changed-email">Additional custom email template for Role changes</a>
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
@@ -19,6 +14,9 @@
 4. <a href="https://github.com/MissVeronica/um-customer-codes">Registrationb Customer Codes Validation</a>
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
+7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Addition of a second textbox field for email address confirmation.</a>
+8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains</a>
+9. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
 
 ## Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
@@ -69,3 +67,4 @@
 ## Trace & JavaScript Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a>
+3. <a href="https://github.com/MissVeronica/UM-Email-Activation-Trace">How to get more information about email activation errors</a>
