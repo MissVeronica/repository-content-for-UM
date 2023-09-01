@@ -18,6 +18,7 @@
 3. <a href="https://github.com/MissVeronica/um-multi-step-registration">Multi Step Registration Form</a>
 4. <a href="https://github.com/MissVeronica/um-customer-codes">Registrationb Customer Codes Validation</a>
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
+6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
 
 ## Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
@@ -28,7 +29,6 @@
 6. <a href="https://github.com/MissVeronica/um-pdf-convert-image">Converting first page of an uploaded PDF file to an Image</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
-9. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
 
 ## Account
 1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
