@@ -62,6 +62,7 @@
 5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
 7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Integration of custom UM email and profile templates with Oxygen Builder.</a>
+8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">UM Integration of Date Time Picker for Contact Form 7</a>
 
 ## Trace & JavaScript Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
