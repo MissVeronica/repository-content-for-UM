@@ -6,7 +6,7 @@
 4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
 5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
 6. <a href="https://github.com/MissVeronica/UM-Role-is-changed-email">Additional custom email template for Role changes</a>
-7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails" target="_blank">Resend Welcome emails</a>
+7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome emails</a>
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
