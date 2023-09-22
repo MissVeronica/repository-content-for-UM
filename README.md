@@ -56,7 +56,7 @@
 2. <a href="https://github.com/MissVeronica/um-shortcode-time-viewer">An UM shortcode date and time viewer</a>
 
 ## Integrations
-1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Adding a checkbox for Newsletter subscription selection and editable at the User Account Page</a>
+1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a>
 3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a>
 4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">Adds a Private Tab to the UM User Profile Page and displays the TablePress shortcode for this User</a>
