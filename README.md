@@ -59,11 +59,11 @@
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a>
 3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a>
-4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">Adds a Private Tab to the UM User Profile Page and displays the TablePress shortcode for this User</a>
+4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
 5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
-7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Integration of custom UM email and profile templates with Oxygen Builder.</a>
-8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">UM Integration of Date Time Picker for Contact Form 7</a>
+7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a>
+8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
 
 ## Trace & JavaScript Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
