@@ -18,6 +18,7 @@
 7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Addition of a second textbox field for email address confirmation.</a>
 8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains</a>
 9. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
+10. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
 ## Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
