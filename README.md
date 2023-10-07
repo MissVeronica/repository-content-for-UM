@@ -15,7 +15,7 @@
 4. <a href="https://github.com/MissVeronica/um-customer-codes">Registrationb Customer Codes Validation</a>
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
-7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Addition of a second textbox field for email address confirmation.</a>
+7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Resend Activation Email at Login</a>
 8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains</a>
 9. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
 10. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
