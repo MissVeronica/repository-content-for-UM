@@ -7,6 +7,7 @@
 5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
 6. <a href="https://github.com/MissVeronica/UM-Role-is-changed-email">Additional custom email template for Role changes</a>
 7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome emails</a>
+8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
@@ -15,7 +16,7 @@
 4. <a href="https://github.com/MissVeronica/um-customer-codes">Registrationb Customer Codes Validation</a>
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
-7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Resend Activation Email at Login</a>
+7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Confirm email additional text box</a>
 8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains</a>
 9. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
 10. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
