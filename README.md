@@ -17,13 +17,15 @@
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
 7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Confirm email additional text box</a>
-8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email domains</a>
-9. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
-10. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
+8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email
+domains</a>
+9. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
+10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
+11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
 ## Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
-2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Profile Form's Field Value and/or Field Label</a>
+2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a>
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
 5. <a href="https://github.com/MissVeronica/um-promote-users-role">User Role Promotions in the frontend</a>
