@@ -45,6 +45,8 @@
 1. <a href="https://github.com/MissVeronica/um-reduced-member-directory-search">Reducing Member Directory Search excluding all fields with meta_key names containing email</a>
 2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a>
 3. <a href="https://github.com/MissVeronica/UM-Members-Directory-Left-Filter-Box">Member Directory Filter & Search box moved to the left</a>
+4. <a href="https://github.com/MissVeronica/um-exclude-ages-directory">Exclude ages in Members Directory</a>
+5. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
 
 ## Validation
 1. <a href="https://github.com/MissVeronica/UM-Decimal-Custom-Validation">Custom Validation of Decimal values</a>
@@ -56,6 +58,7 @@
 ## Shortcodes
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
 2. <a href="https://github.com/MissVeronica/um-shortcode-time-viewer">An UM shortcode date and time viewer</a>
+3. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
