@@ -74,7 +74,8 @@ domains</a>
 8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
 9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer
 
-## Trace & JavaScript Conflicts
+## Trace & JavaScript and CSS Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a>
+3. <a href="https://github.com/MissVeronica/um-comment-css-important">Comment CSS important</a>
 
