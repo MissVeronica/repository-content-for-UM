@@ -23,7 +23,7 @@ domains</a>
 10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
-## Profile
+## User Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
 2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a>
@@ -32,6 +32,7 @@ domains</a>
 6. <a href="https://github.com/MissVeronica/um-pdf-convert-image">Converting first page of an uploaded PDF file to an Image</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
+9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a>
 
 ## Account
 1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
