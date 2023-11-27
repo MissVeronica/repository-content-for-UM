@@ -74,6 +74,7 @@ domains</a>
 7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a>
 8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
 9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer
+10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration
 
 ## Trace & JavaScript and CSS Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
