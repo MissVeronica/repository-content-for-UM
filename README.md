@@ -41,7 +41,7 @@ domains</a>
 ## Login
 1. <a href="https://github.com/MissVeronica/um-detect-login-country">Detect logins from unexpected countries</a>
 2. <a href="https://github.com/MissVeronica/um-redirect-logincheck">Redirect user at login with account status not approved</a>
-3. <a href="https://github.com/MissVeronica/um-resend-activation">A user attempt to login without e-mail activation will give the user a new (resend) activation e-mail and a prompt to verify the account</a>
+3. <a href="https://github.com/MissVeronica/um-resend-activation">Resend Activation Email at Login</a>
 4. <a href="https://github.com/MissVeronica/UM-Mobile-Number-Login">Additional login option: Mobile Number</a>
 
 ## Members Directory
