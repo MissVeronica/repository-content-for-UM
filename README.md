@@ -50,14 +50,17 @@ domains</a>
 3. <a href="https://github.com/MissVeronica/UM-Members-Directory-Left-Filter-Box">Member Directory Filter & Search box moved to the left</a>
 4. <a href="https://github.com/MissVeronica/um-exclude-ages-directory">Exclude ages in Members Directory</a>
 5. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
+6. <a href="https://github.com/MissVeronica/um-members-directory-csv">Members Directory CSV</a>
 
 ## Validation
 1. <a href="https://github.com/MissVeronica/UM-Decimal-Custom-Validation">Custom Validation of Decimal values</a>
+2. <a href="https://github.com/MissVeronica/um-birth-date-validation">Birth Date Validation</a>
 
 ## Wordpress
 1. <a href="https://github.com/MissVeronica/um-sort-users-columns">Sortable Users Columns to the WP All Users backend listing</a>
 2. <a href="https://github.com/MissVeronica/um-account-privacy-control">Manage Account Privacy from the backend</a>
 3. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
+4. <a href="https://github.com/MissVeronica/um-additional-user-columns">Additional User Columns</a>
 
 ## Shortcodes
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
@@ -73,9 +76,12 @@ domains</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
 7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a>
 8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
-9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer
-10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration
-11. <a href="https://github.com/MissVeronica/um-birthday-emails">Birthday Emails
+9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer</a>
+10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration</a>
+11. <a href="https://github.com/MissVeronica/um-birthday-emails">Birthday Emails</a>
+
+## Images and files
+1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
 
 ## Trace & JavaScript and CSS Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
