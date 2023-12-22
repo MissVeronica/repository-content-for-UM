@@ -9,6 +9,7 @@
 7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome emails</a>
 8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
+10. <a href="https://github.com/MissVeronica/um-send-login-welcome-email">Send Login Welcome Email</a>
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
