@@ -68,6 +68,7 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
 2. <a href="https://github.com/MissVeronica/um-shortcode-time-viewer">An UM shortcode date and time viewer</a>
 3. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
+4. <a href="https://github.com/MissVeronica/um-number-of-users-shortcode">Number of Users with selected status</a>
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
