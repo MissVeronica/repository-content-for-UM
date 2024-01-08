@@ -47,7 +47,7 @@ domains</a>
 4. <a href="https://github.com/MissVeronica/UM-Mobile-Number-Login">Additional login option: Mobile Number</a>
 
 ## Members Directory
-1. <a href="https://github.com/MissVeronica/um-reduced-member-directory-search">Reducing Member Directory Search excluding all fields with meta_key names containing email</a>
+1. <a href="https://github.com/MissVeronica/um-members-directory-custom-search">Members Directory Custom Search</a> NEW
 2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a>
 3. <a href="https://github.com/MissVeronica/UM-Members-Directory-Left-Filter-Box">Member Directory Filter & Search box moved to the left</a>
 4. <a href="https://github.com/MissVeronica/um-exclude-ages-directory">Exclude ages in Members Directory</a>
