@@ -73,7 +73,7 @@ domains</a>
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a>
-3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a>
+3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a> Updated
 4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
 5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
