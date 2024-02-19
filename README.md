@@ -36,6 +36,7 @@ domains</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a>
+10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New beta
 
 ## Account
 1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
