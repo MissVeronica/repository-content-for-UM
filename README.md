@@ -31,7 +31,7 @@ domains</a>
 2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a>
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
-5. <a href="https://github.com/MissVeronica/um-promote-users-role">User Role Promotions in the frontend</a>
+5. <a href="https://github.com/MissVeronica/um-promote-users-role">User Role Promotions in the frontend</a> Updated for UM 2.8.3
 6. <a href="https://github.com/MissVeronica/um-pdf-convert-image">Converting first page of an uploaded PDF file to an Image</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
@@ -50,7 +50,7 @@ domains</a>
 
 ## Members Directory
 1. <a href="https://github.com/MissVeronica/um-members-directory-custom-search">Members Directory Custom Search</a> NEW
-2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a> Update for UM 2.8.3
+2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/UM-Members-Directory-Left-Filter-Box">Member Directory Filter & Search box moved to the left</a>
 4. <a href="https://github.com/MissVeronica/um-exclude-ages-directory">Exclude ages in Members Directory</a>
 5. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
