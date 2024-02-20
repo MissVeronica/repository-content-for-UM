@@ -27,7 +27,7 @@ domains</a>
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
 ## User Profile
-1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a>
+1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> UM 2.8.3 ready
 2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a>
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
