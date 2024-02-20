@@ -91,7 +91,7 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
 
 ## Trace & JavaScript and CSS Conflicts
-1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events: nonce events, redirect events, password reset events, email validation events.</a>
+1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a>
 3. <a href="https://github.com/MissVeronica/um-comment-css-important">Comment CSS important</a>
 
