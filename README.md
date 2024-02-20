@@ -1,7 +1,7 @@
 # Repository Content for Ultimate Member
 ## email
 1. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">Admin User Profile Update Email</a>
-2. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC: and BCC: to UM Notifications</a> tested with UM 2.8.3
+2. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC: and BCC: to UM Notifications</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-log-send-email">Logging of notification emails within UM</a>
 4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
 5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
@@ -14,7 +14,7 @@
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
-2. <a href="https://github.com/MissVeronica/um-unique-user-account-id">Setting a prefixed Unique User Account ID per UM Registration Form</a>
+2. <a href="https://github.com/MissVeronica/um-unique-user-account-id">Setting a prefixed Unique User Account ID per UM Registration Form</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-multi-step-registration">Multi Step Registration Form</a>
 4. <a href="https://github.com/MissVeronica/um-customer-codes">Registration Customer Codes Validation</a>
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
@@ -27,7 +27,7 @@ domains</a>
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
 ## User Profile
-1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> UM 2.8.3 ready
+1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a>
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
@@ -36,7 +36,7 @@ domains</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a>
-10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New tested with UM 2.8.3
+10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.8.3
 
 ## Account
 1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
@@ -75,8 +75,8 @@ domains</a>
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a>
-2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a> Updated UM 2.8.3
-3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a> Updated UM 2.8.3
+2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a> Updated for UM 2.8.3
+3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a> Updated for UM 2.8.3
 4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
 5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
@@ -91,7 +91,7 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
 
 ## Trace & JavaScript and CSS Conflicts
-1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated UM 2.8.3
+1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a>
 3. <a href="https://github.com/MissVeronica/um-comment-css-important">Comment CSS important</a>
 
