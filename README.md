@@ -64,7 +64,7 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-sort-users-columns">Sortable Users Columns to the WP All Users backend listing</a>
 2. <a href="https://github.com/MissVeronica/um-account-privacy-control">Manage Account Privacy from the backend</a>
 3. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
-4. <a href="https://github.com/MissVeronica/um-additional-user-columns">Additional User Columns</a>
+4. <a href="https://github.com/MissVeronica/um-additional-user-columns">Additional User Columns</a> Updated for UM 2.8.3
 
 ## Shortcodes
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
