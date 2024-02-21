@@ -86,6 +86,7 @@ domains</a>
 10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration</a>
 11. <a href="https://github.com/MissVeronica/um-birthday-emails">Birthday Emails</a>
 12. <a href="https://github.com/MissVeronica/um-refer-a-friend-status">Refer a Friend Status</a>
+13. <a href="https://github.com/MissVeronica/um-pardot-form-submit">Pardot Form Submit</a> New beta Updated for UM 2.8.3
 
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
