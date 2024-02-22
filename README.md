@@ -35,7 +35,7 @@ domains</a>
 6. <a href="https://github.com/MissVeronica/um-pdf-convert-image">Converting first page of an uploaded PDF file to an Image</a>
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
-9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a>
+9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a> Updated for UM 2.8.3
 10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.8.3
 
 ## Account
