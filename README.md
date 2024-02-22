@@ -80,7 +80,7 @@ domains</a>
 4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
 5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
 6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
-7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a>
+7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a> Updated for UM 2.8.3
 8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
 9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer</a>
 10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration</a>
