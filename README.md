@@ -16,7 +16,7 @@
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
 2. <a href="https://github.com/MissVeronica/um-unique-user-account-id">Setting a prefixed Unique User Account ID per UM Registration Form</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-multi-step-registration">Multi Step Registration Form</a>
-4. <a href="https://github.com/MissVeronica/um-customer-codes">Registration Customer Codes Validation</a>
+4. <a href="https://github.com/MissVeronica/um-customer-codes">Registration Customer Codes Validation</a>> Updated for UM 2.8.3
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
 7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Confirm email additional text box</a>
