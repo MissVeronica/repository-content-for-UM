@@ -1,6 +1,6 @@
 # Repository Content for Ultimate Member
 ## email
-1. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">Admin User Profile Update Email</a>
+1. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">Admin User Profile Update Email</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC: and BCC: to UM Notifications</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-log-send-email">Logging of notification emails within UM</a>
 4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
