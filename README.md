@@ -23,7 +23,7 @@
 8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Additional blocking possibilities like subdomains and top level domains and disposable email
 domains</a>
 9. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
-10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a>
+10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a> Updated for UM 2.8.3
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a>
 
 ## User Profile
