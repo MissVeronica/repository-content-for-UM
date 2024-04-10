@@ -10,7 +10,7 @@
 8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
 10. <a href="https://github.com/MissVeronica/um-send-login-welcome-email">Send Login Welcome Email</a>
-11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday greetings</a> NEW Updated for UM 2.8.3
+11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday greetings</a> NEW Updated for UM 2.8.5
 12. <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a> NEW
 13. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
 
