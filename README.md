@@ -30,7 +30,7 @@ domains</a>
 
 ## User Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.5
-2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a>
+2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a> Updated for UM 2.8.5
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a> Updated for UM 2.8.3
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
 5. <a href="https://github.com/MissVeronica/um-promote-users-role">User Role Promotions in the frontend</a> Updated for UM 2.8.3
