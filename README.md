@@ -5,7 +5,7 @@
 3. <a href="https://github.com/MissVeronica/um-log-send-email">Logging of notification emails within UM</a>
 4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Replace the WP new user email with a UM Notification email when Admin is doing the User Registration</a>
 5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
-6. <a href="https://github.com/MissVeronica/um-role-change-email">Role Change Email</a> Updated for UM 2.8.3
+6. <a href="https://github.com/MissVeronica/um-role-change-email">Role Change Email</a> Updated for UM 2.8.5
 7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome emails</a>
 8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
