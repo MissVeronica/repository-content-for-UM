@@ -101,4 +101,5 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-comment-css-important">Comment CSS important</a>
+4. <a href="https://github.com/MissVeronica/um-redirect-error-trace">Redirect and Error Trace</a> NEW
 
