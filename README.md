@@ -61,7 +61,7 @@ domains</a>
 7. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a> NEW
 
 ## Validation
-1. <a href="https://github.com/MissVeronica/UM-Decimal-Custom-Validation">Custom Validation of Decimal values</a>
+1. <a href="https://github.com/MissVeronica/um-decimal-custom-validation">Custom Validation of Decimal values</a>
 2. <a href="https://github.com/MissVeronica/um-birth-date-validation">Birth Date Validation</a>
 
 ## Wordpress
