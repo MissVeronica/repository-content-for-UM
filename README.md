@@ -40,6 +40,7 @@ domains</a>
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a> Updated for UM 2.8.3
 10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.8.3
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
+12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a> NEW
 
 ## Account
 1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
