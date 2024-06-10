@@ -28,6 +28,7 @@ domains</a>
 10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a> Updated for UM 2.8.3
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a> Updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a> NEW
+13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time</a> NEW
 
 ## User Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.5
