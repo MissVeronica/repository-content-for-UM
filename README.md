@@ -45,8 +45,7 @@ domains</a>
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a> NEW
 
 ## Account
-1. <a href="https://github.com/MissVeronica/um-custom-username-field">Selecting custom field as Username</a>
-2. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
+1. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
 
 ## Login
 1. <a href="https://github.com/MissVeronica/um-detect-login-country">Detect logins from unexpected countries</a>
