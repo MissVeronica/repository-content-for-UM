@@ -52,7 +52,7 @@ domains</a>
 1. <a href="https://github.com/MissVeronica/um-detect-login-country">Detect logins from unexpected countries</a>
 2. <a href="https://github.com/MissVeronica/um-redirect-logincheck">Redirect user at login with account status not approved</a>
 3. <a href="https://github.com/MissVeronica/um-resend-activation">Resend Activation Email at Login</a>
-4. <a href="https://github.com/MissVeronica/UM-Mobile-Number-Login">Additional login option: Mobile Number</a>
+4. <a href="https://github.com/MissVeronica/um-custom-username-field">Extra Custom Username Field</a> NEW
 
 ## Members Directory
 1. <a href="https://github.com/MissVeronica/um-members-directory-custom-search">Members Directory Custom Search</a> NEW
