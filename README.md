@@ -80,6 +80,7 @@ domains</a>
 4. <a href="https://github.com/MissVeronica/um-number-of-users-shortcode">Number of Users with selected status</a>
 5. <a href="https://github.com/MissVeronica/um-triple-forms">Triple Forms for screen, tablet and mobile</a> NEW
 6. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
+7. <a href="https://github.com/MissVeronica/um-format-form-content">Format Form Content shortcode</a> NEW August 2024
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.8.6
