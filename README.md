@@ -62,6 +62,7 @@ domains</a>
 7. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a> NEW
 8. <a href="https://github.com/MissVeronica/um-directory-private-fields">Directory Private Fields</a> NEW
 9. <a href="https://github.com/MissVeronica/um-custom-directory-template">Customized Directory Template</a> NEW
+10. <a href="https://github.com/MissVeronica/um-directory-display-names-shorter">Directory Display Names Shorter</a> NEW
 
 ## Validation
 1. <a href="https://github.com/MissVeronica/um-decimal-custom-validation">Custom Validation of Decimal values</a>
