@@ -10,7 +10,7 @@
 8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
 10. <a href="https://github.com/MissVeronica/um-send-login-welcome-email">Send Login Welcome Email</a>
-11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday 2</a> NEW version and updated for UM 2.8.6
+11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday 2</a> updated for UM 2.8.7
 12. <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a> NEW
 13. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
 
@@ -31,7 +31,7 @@ domains</a>
 13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a> NEW
 
 ## User Profile
-1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.5
+1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.7
 2. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a> Updated for UM 2.8.5
 3. <a href="https://github.com/MissVeronica/um-unique-membership-id">Setting a prefixed Unique Membership ID per UM Role</a> Updated for UM 2.8.3
 4. <a href="https://github.com/MissVeronica/um-three-way-dropdowns">Defining two or three way dropdown options in a spreadsheet saved as a CSV file</a>
