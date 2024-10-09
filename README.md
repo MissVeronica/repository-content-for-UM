@@ -69,7 +69,7 @@ domains</a>
 2. <a href="https://github.com/MissVeronica/um-birth-date-validation">Birth Date Validation</a>
 
 ## Wordpress
-1. <a href="https://github.com/MissVeronica/um-sort-users-columns">Sortable Users Columns to the WP All Users backend listing</a> Updated for UM 2.8.3
+1. <a href="https://github.com/MissVeronica/um-sort-users-columns">Sortable Users Columns to the WP All Users backend listing</a> Updated for UM 2.8.8
 2. <a href="https://github.com/MissVeronica/um-account-privacy-control">Manage Account Privacy from the backend</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
 4. <a href="https://github.com/MissVeronica/um-additional-user-columns">Additional User Columns</a> Updated for UM 2.8.3
