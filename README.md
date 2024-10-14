@@ -13,6 +13,7 @@
 11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday 2</a> updated for UM 2.8.7
 12. <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a> NEW
 13. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
+14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Delete Users Awaiting email Activation</a> NEW
 
 ## Registration
 1. <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
@@ -29,6 +30,7 @@ domains</a>
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a> Updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a> NEW
 13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a> NEW
+14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Delete Users Awaiting email Activation</a> NEW
 
 ## User Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.7
