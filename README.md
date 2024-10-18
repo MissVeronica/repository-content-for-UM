@@ -1,4 +1,4 @@
-# Repository Content for Ultimate Member
+# Repository Content for Ultimate Member add-ons
 ## email
 1. <a href="https://github.com/MissVeronica/um-admin-user-profile-update-email">Admin User Profile Update Email</a> Updated for UM 2.8.5
 2. <a href="https://github.com/MissVeronica/um-additional-email-recipients">Additional CC:, BCC: and Reply-To: for UM Notifications</a> Updated for UM 2.8.7/2.8.8
