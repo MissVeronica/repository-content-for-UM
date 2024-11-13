@@ -23,7 +23,7 @@
 5. <a href="https://github.com/MissVeronica/UM-PDF-User-Submitted-data">PDF with Submitted User Registration Data</a>
 6. <a href="https://github.com/MissVeronica/UM-EU-Registrations">Display an UM field only for user registrations from an European Union country</a>
 7. <a href="https://github.com/MissVeronica/UM-Confirm-email-address-at-Registration">Confirm email additional text box</a>
-8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Blocking email addresses and online update of disposable emails domains</a> UPDATE 3.0.0
+8. <a href="https://github.com/MissVeronica/um-black-listing-email-domains">Blocking email addresses and online update of disposable emails domains</a> UPDATE 3.1.0
 9. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a> Updated for UM 2.8.5
 10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a> Updated for UM 2.8.3
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a> Updated for UM 2.8.3
