@@ -41,7 +41,7 @@
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a> Updated for UM 2.8.3
-10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.9.1
+10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> Updated for UM 2.9.1
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a> NEW
 
@@ -100,7 +100,7 @@
 13. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
 
 ## Images and files
-1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
+1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
 
 ## Trace & JavaScript and CSS Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated for UM 2.8.3
