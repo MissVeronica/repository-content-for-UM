@@ -41,7 +41,7 @@
 7. <a href="https://github.com/MissVeronica/um-cover-photo-selection">Cover Photo Selection from predefined photos</a>
 8. <a href="https://github.com/MissVeronica/um-limit-custom-visit-profile">Limit the subscribed user to certain amount of profile views</a>
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a> Updated for UM 2.8.3
-10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.8.3
+10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> New, updated for UM 2.9.1
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a> NEW
 
@@ -85,7 +85,7 @@
 7. <a href="https://github.com/MissVeronica/um-format-form-content">Format Form Content shortcode</a> NEW August 2024
 
 ## Integrations
-1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.8.6
+1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.9.1
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a> Updated for UM 2.8.5
 3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Designer</a> Updated for UM 2.8.3
 4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
