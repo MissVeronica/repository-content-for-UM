@@ -98,6 +98,7 @@
 11. <a href="https://github.com/MissVeronica/um-refer-a-friend-status">Refer a Friend Status</a>
 12. <a href="https://github.com/MissVeronica/um-pardot-form-submit">Pardot Form Submit</a> New beta Updated for UM 2.8.3
 13. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
+14. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW
 
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
