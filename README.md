@@ -11,8 +11,8 @@
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
 10. <a href="https://github.com/MissVeronica/um-send-login-welcome-email">Send Login Welcome Email</a>
 11. <a href="https://github.com/MissVeronica/um-happy-birthday">Happy Birthday 2</a> updated for UM 2.8.7
-12. <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a> NEW
-13. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
+12. <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a>
+13. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a>
 14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Delete Users Awaiting email Activation</a> NEW
 
 ## Registration
@@ -27,8 +27,8 @@
 9. <a href="https://github.com/MissVeronica/um-fields-with-links">Include a Link in the Registration and Profile Form's Field Value and/or Field Label</a> Updated for UM 2.8.5
 10. <a href="https://github.com/MissVeronica/um-white-listing-email-domains">White listing email domains and email addresses</a> Updated for UM 2.8.3
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a> Updated for UM 2.8.3
-12. <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a> NEW
-13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a> NEW
+12. <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a>
+13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a>
 14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Delete Users Awaiting email Activation</a> NEW
 
 ## User Profile
@@ -43,7 +43,7 @@
 9. <a href="https://github.com/MissVeronica/um-user-role-history">User Role History</a> Updated for UM 2.8.3
 10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> Updated for UM 2.9.1
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
-12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a> NEW
+12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a>
 
 ## Account
 1. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
@@ -52,7 +52,7 @@
 1. <a href="https://github.com/MissVeronica/um-detect-login-country">Detect logins from unexpected countries</a>
 2. <a href="https://github.com/MissVeronica/um-redirect-logincheck">Redirect user at login with account status not approved</a>
 3. <a href="https://github.com/MissVeronica/um-resend-activation">Resend Activation Email at Login</a>
-4. <a href="https://github.com/MissVeronica/um-custom-username-field">Extra Custom Username Field</a> NEW
+4. <a href="https://github.com/MissVeronica/um-custom-username-field">Extra Custom Username Field</a>
 
 ## Members Directory
 2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a> Updated for UM 2.8.3
@@ -60,9 +60,9 @@
 4. <a href="https://github.com/MissVeronica/um-exclude-ages-directory">Exclude ages in Members Directory</a> Updated for UM 2.8.3
 5. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
 6. <a href="https://github.com/MissVeronica/um-members-directory-csv">Members Directory CSV</a> Updated for UM 2.8.3
-7. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a> NEW
-8. <a href="https://github.com/MissVeronica/um-directory-private-fields">Directory Private Fields</a> NEW
-9. <a href="https://github.com/MissVeronica/um-custom-directory-template">Customized Directory Template</a> NEW
+7. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a>
+8. <a href="https://github.com/MissVeronica/um-directory-private-fields">Directory Private Fields</a>
+9. <a href="https://github.com/MissVeronica/um-custom-directory-template">Customized Directory Template</a>
 10. <a href="https://github.com/MissVeronica/um-directory-display-names-shorter">Directory Display Names Shorter</a> NEW
 
 ## Validation
@@ -80,8 +80,8 @@
 2. <a href="https://github.com/MissVeronica/um-shortcode-time-viewer">An UM shortcode date and time viewer</a>
 3. <a href="https://github.com/MissVeronica/um-number-of-days-ago">Number of Days ago</a>
 4. <a href="https://github.com/MissVeronica/um-number-of-users-shortcode">Number of Users with selected status</a>
-5. <a href="https://github.com/MissVeronica/um-triple-forms">Triple Forms for screen, tablet and mobile</a> NEW
-6. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a> NEW
+5. <a href="https://github.com/MissVeronica/um-triple-forms">Triple Forms for screen, tablet and mobile</a>
+6. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a>
 7. <a href="https://github.com/MissVeronica/um-format-form-content">Format Form Content shortcode</a> NEW August 2024
 
 ## Integrations
@@ -98,7 +98,7 @@
 11. <a href="https://github.com/MissVeronica/um-refer-a-friend-status">Refer a Friend Status</a>
 12. <a href="https://github.com/MissVeronica/um-pardot-form-submit">Pardot Form Submit</a> New beta Updated for UM 2.8.3
 13. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
-14. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW
+14. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW November 2024
 
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
@@ -107,5 +107,5 @@
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-conflict-remover">Exclude conflicting scripts and styles from UM pages</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-comment-css-important">Comment CSS important</a>
-4. <a href="https://github.com/MissVeronica/um-redirect-error-trace">Redirect and Error Trace</a> NEW
+4. <a href="https://github.com/MissVeronica/um-redirect-error-trace">Redirect and Error Trace</a>
 
