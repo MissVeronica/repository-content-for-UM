@@ -64,6 +64,7 @@
 8. <a href="https://github.com/MissVeronica/um-directory-private-fields">Directory Private Fields</a>
 9. <a href="https://github.com/MissVeronica/um-custom-directory-template">Customized Directory Template</a>
 10. <a href="https://github.com/MissVeronica/um-directory-display-names-shorter">Directory Display Names Shorter</a> NEW
+11. <a href="https://github.com/MissVeronica/um-directory-dual-sort">Directory Dual Sort</a> NEW
 
 ## Validation
 1. <a href="https://github.com/MissVeronica/um-decimal-custom-validation">Custom Validation of Decimal values</a>
