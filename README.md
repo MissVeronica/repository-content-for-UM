@@ -29,7 +29,7 @@
 11. <a href="https://github.com/MissVeronica/um-tabindex-settings">Tabindex settings</a> Updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a>
 13. <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a>
-14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Delete Users Awaiting email Activation</a> NEW
+14. <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Users Awaiting email Activation</a> NEW
 
 ## User Profile
 1. <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.7
@@ -44,6 +44,7 @@
 10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> Updated for UM 2.9.1
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a>
+13. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW 
 
 ## Account
 1. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
