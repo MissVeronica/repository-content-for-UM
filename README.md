@@ -85,6 +85,7 @@
 5. <a href="https://github.com/MissVeronica/um-triple-forms">Triple Forms for screen, tablet and mobile</a>
 6. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a>
 7. <a href="https://github.com/MissVeronica/um-format-form-content">Format Form Content shortcode</a> NEW August 2024
+8. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW 
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.9.1
