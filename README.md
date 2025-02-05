@@ -54,6 +54,7 @@
 2. <a href="https://github.com/MissVeronica/um-redirect-logincheck">Redirect user at login with account status not approved</a>
 3. <a href="https://github.com/MissVeronica/um-resend-activation">Resend Activation Email at Login</a>
 4. <a href="https://github.com/MissVeronica/um-custom-username-field">Extra Custom Username Field</a>
+5. <a href="https://github.com/MissVeronica/um-force-password-reset">Force Password Reset</a> NEW February2025
 
 ## Members Directory
 2. <a href="https://github.com/MissVeronica/um-ratings-members-directory">Adding Ratings to Members Directory Page</a> Updated for UM 2.8.3
