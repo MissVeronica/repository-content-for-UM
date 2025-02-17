@@ -106,6 +106,7 @@
 
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
+2. <a href="https://github.com/MissVeronica/um-import-profile-photos">Import Profile photos</a> New February 2025
 
 ## Trace & JavaScript and CSS Conflicts
 1. <a href="https://github.com/MissVeronica/um-events-trace-log">A debug tool for tracing UM events</a> Updated for UM 2.8.3
