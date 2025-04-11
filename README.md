@@ -44,7 +44,8 @@
 10. <a href="https://github.com/MissVeronica/um-user-profile-scrolling">User Profile Scrolling</a> Updated for UM 2.9.1
 11. <a href="https://github.com/MissVeronica/um-visitors">User Visitors and Visits</a> New, updated for UM 2.8.3
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a>
-13. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW January 2025 
+13. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW January 2025
+14. <a href="https://github.com/MissVeronica/um-date-diff-days">Date Difference in Days</a> NEW April 2025
 
 ## Account
 1. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
@@ -86,7 +87,8 @@
 5. <a href="https://github.com/MissVeronica/um-triple-forms">Triple Forms for screen, tablet and mobile</a>
 6. <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a>
 7. <a href="https://github.com/MissVeronica/um-format-form-content">Format Form Content shortcode</a> NEW August 2024
-8. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW January 2025 
+8. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW January 2025
+9. <a href="https://github.com/MissVeronica/um-date-diff-days">Date Difference in Days</a> NEW April 2025
 
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.9.1
