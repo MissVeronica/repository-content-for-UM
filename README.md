@@ -6,7 +6,7 @@
 4. <a href="https://github.com/MissVeronica/um-email-admin-registration">Admin User Registration Notification Email</a> Updated for UM 2.8.8
 5. <a href="https://github.com/MissVeronica/um-landing-page-for-email-links">“Activation” or “Reset password” links received via email failing</a>
 6. <a href="https://github.com/MissVeronica/um-role-change-email">Role Change Email</a> Updated for UM 2.8.5
-7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome and Approval emails</a> Updated for UM 2.8.7/2.8.8
+7. <a href="https://github.com/MissVeronica/um-resend-welcome-emails">Resend Welcome and Approval emails</a> Updated for UM 2.10.5
 8. <a href="https://github.com/MissVeronica/um-resend-activation">Resend email activation email at attempt to login</a>
 9. <a href="https://github.com/MissVeronica/um-submitted-date-format">Submitted Date Format</a>
 10. <a href="https://github.com/MissVeronica/um-send-login-welcome-email">Send Login Welcome Email</a>
