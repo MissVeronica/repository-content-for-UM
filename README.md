@@ -78,6 +78,7 @@
 2. <a href="https://github.com/MissVeronica/um-account-privacy-control">Manage Account Privacy from the backend</a> Updated for UM 2.8.3
 3. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a>
 4. <a href="https://github.com/MissVeronica/um-additional-user-columns">Additional User Columns</a> Updated for UM 2.8.3
+5. <a href="https://github.com/MissVeronica/um-edit-user-link">Edit User Link</a> New 2025-07-19
 
 ## Shortcodes
 1. <a href="https://github.com/MissVeronica/um-count-users">List number of users with same meta_values for a meta_key</a>
