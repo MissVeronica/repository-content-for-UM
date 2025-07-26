@@ -107,6 +107,7 @@
 13. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
 14. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW November 2024
 15. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a>
+16. <a href="https://github.com/MissVeronica/um-woo-account-endpoints">Woo Account Endpoints</a> NEW July 2025
 
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
