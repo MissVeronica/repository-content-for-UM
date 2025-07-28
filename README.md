@@ -94,21 +94,21 @@
 ## Integrations
 1. <a href="https://github.com/MissVeronica/um-newsletter-plugin-checkbox">Newsletter plugin subscription selection</a> Updated for UM 2.9.1
 2. <a href="https://github.com/MissVeronica/um-really-simple-captcha">Really Simple Captcha plugin</a> Updated for UM 2.8.5
-3. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Builder</a> Updated for UM 2.8.3
-4. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
-5. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
-6. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
-7. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a> Updated for UM 2.8.3
-8. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
-9. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer</a>
-10. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration</a>
-11. <a href="https://github.com/MissVeronica/um-refer-a-friend-status">Refer a Friend Status</a>
-12. <a href="https://github.com/MissVeronica/um-pardot-form-submit">Pardot Form Submit</a> New beta Updated for UM 2.8.3
-13. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
-14. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW November 2024
-15. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a>
-16. <a href="https://github.com/MissVeronica/um-woo-account-endpoints">Woo Account Endpoints</a> NEW July 2025
-
+3. <a href="https://github.com/MissVeronica/UM-TablePress-Integration">User Profile Page and a TablePress shortcode</a>
+4. <a href="https://github.com/MissVeronica/Replace-WP-URLs-with-UM-login">Replace LearnDash WP native login URLs with UM login</a>
+5. <a href="https://github.com/MissVeronica/UM-Two-factor-authentication">WP 2FA – Two-factor Authentication for WordPress</a>
+6. <a href="https://github.com/MissVeronica/um-oxygen-email-templates">Email and Profile templates with Oxygen Builder.</a> Updated for UM 2.8.3
+7. <a href="https://github.com/MissVeronica/UM-Integration-of-Date-Time-Picker">Date and Time Picker for Contact Form 7</a>
+8. <a href="https://github.com/MissVeronica/UM-Integration-of-Loginizer">Loginizer</a>
+9. <a href="https://github.com/MissVeronica/um-orcid-integration">ORCID integration</a>
+10. <a href="https://github.com/MissVeronica/um-refer-a-friend-status">Refer a Friend Status</a>
+11. <a href="https://github.com/MissVeronica/um-pardot-form-submit">Pardot Form Submit</a> New beta Updated for UM 2.8.3
+12. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
+13. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW November 2024
+14. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a>
+### WooCommerce
+1. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Builder</a> Updated for UM 2.8.3
+2. <a href="https://github.com/MissVeronica/um-woo-account-endpoints">Woo Account Endpoints</a> NEW July 2025
 ## Images and files
 1. <a href="https://github.com/MissVeronica/um-account-file-manager">Account File Manager</a> Updated for UM 2.9.1
 2. <a href="https://github.com/MissVeronica/um-import-profile-photos">Import Profile photos</a> New February 2025
