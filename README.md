@@ -46,6 +46,7 @@
 12. <a href="https://github.com/MissVeronica/um-decimal-number-step">Decimal Number Steps</a>
 13. <a href="https://github.com/MissVeronica/um-shortcode-profile-info">Shortcode Profile Info</a> NEW January 2025
 14. <a href="https://github.com/MissVeronica/um-date-diff-days">Date Difference in Days</a> NEW April 2025
+15. <a href="https://github.com/MissVeronica/um-post-grid">Post Grid</a> NEW August 2025
 
 ## Account
 1. <a href="https://github.com/MissVeronica/UM-archive-users">Archive Deleted Users</a>
@@ -106,6 +107,7 @@
 12. <a href="https://github.com/MissVeronica/um-ads-free-cookies">Ads Free Cookies supporting the Ezoic plugin</a> Updated for UM 2.8.3
 13. <a href="https://github.com/MissVeronica/um-recaptcha-score-log">Google reCAPTCHA V3 Score Log</a> NEW November 2024
 14. <a href="https://github.com/MissVeronica/UM-Gamipress">GamiPress</a>
+15. <a href="https://github.com/MissVeronica/um-post-grid">Post Grid</a> NEW August 2025
 ### WooCommerce
 1. <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Builder</a> Updated for UM 2.8.3
 2. <a href="https://github.com/MissVeronica/um-woo-account-endpoints">Woo Account Endpoints</a> NEW July 2025
