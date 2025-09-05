@@ -30,6 +30,7 @@
 * <a href="https://github.com/MissVeronica/um-admin-user-registrations">Admin User Registrations</a>
 * <a href="https://github.com/MissVeronica/um-network-validation-reject-time">Network URL Validation Service Reject Time Window</a>
 * <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Users Awaiting email Activation</a> NEW January 2025
+* <a href="https://github.com/MissVeronica/um-email-activation-admin-review">Email Activation and Admin Review</a> Updated September 2025
 
 ## User Profile
 * <a href="https://github.com/MissVeronica/um-profile-content-moderation">Profile Content Moderation</a> Updated for UM 2.8.7
