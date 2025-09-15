@@ -14,7 +14,7 @@
 * <a href="https://github.com/MissVeronica/um-email-header-footer">HTML Header/Footer to all outgoing UM Notification emails</a>
 * <a href="https://github.com/MissVeronica/um-email-parse-shortcode">Email Parse Shortcode "um_show_content"</a>
 * <a href="https://github.com/MissVeronica/um-delete-users-awaiting-email">Users Awaiting email Activation</a> NEW January 2025
-* <a href="https://github.com/MissVeronica/um-profile-photo-placeholders">Profile Photo Placeholders NEW September 2025
+* <a href="https://github.com/MissVeronica/um-profile-photo-placeholders">Profile Photo Placeholders</a> NEW September 2025
 
 ## Registration
 * <a href="https://github.com/MissVeronica/UM-GDPR-Privacy-Policy-popup">Custom template for GDPR Privacy Policy popup</a>
