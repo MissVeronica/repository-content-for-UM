@@ -131,4 +131,5 @@
 * <a href="https://github.com/MissVeronica/um-redirect-error-trace">Redirect and Error Trace</a>
 * <a href="https://github.com/MissVeronica/um-deprecated-log">Deprecated Log</a> New April 2025
 * <a href="https://github.com/MissVeronica/um-debug-fetch-user">Debug Fetch User</a> New June 2025
+* <a href="https://github.com/MissVeronica/um-show-all-options">Show All Options</a> New October 2025
 
