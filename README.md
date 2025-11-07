@@ -113,7 +113,7 @@
 * <a href="https://github.com/MissVeronica/um-post-grid">Post Grid</a> NEW August 2025
 
 ### WooCommerce
-* <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Builder</a> Updated for UM 2.8.3
+* <a href="https://github.com/MissVeronica/um-woo-predefined-fields">WooCommerce Fields in the UM Forms Builder</a> Updated November 2025
 * <a href="https://github.com/MissVeronica/um-woo-account-endpoints">Woo Account Endpoints</a> NEW July 2025
 
 ## Images and files
